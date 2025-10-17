@@ -1,0 +1,12 @@
+[submodule "tools/wrapper-generator/autd3-capi-link-remote-twincat"]
+	path = tools/wrapper-generator/autd3-capi-link-remote-twincat
+	url = https://github.com/shinolab/autd3-capi-link-remote-twincat.git
+[submodule "tools/wrapper-generator/autd3-link-remote-twincat"]
+	path = tools/wrapper-generator/autd3-link-remote-twincat
+	url = https://github.com/shinolab/autd3-rs.git
+[submodule "tools/wrapper-generator/autd3-link-remote-twincat"]
+	path = tools/wrapper-generator/autd3-link-remote-twincat
+	url = https://github.com/shinolab/autd3-rs.git
+[submodule "tools/wrapper-generator/autd3-capi-link-remote-twincat"]
+	path = tools/wrapper-generator/autd3-capi-link-remote-twincat
+	url = https://github.com/shinolab/autd3-capi-link-remote-twincat.git
